@@ -1,0 +1,6 @@
+
+ * Use a taco shell of your choice and top with some pan-seared salmon.
+ * Make the avocado and mango salsa and add it to the taco.
+
+from: https://github.com/dansinker/tacofancy/blob/master/full_tacos/salmon_tacos.md
+
